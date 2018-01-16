@@ -1,0 +1,94 @@
+
+<style> 
+
+.like{
+margin-top: 50px !important;
+padding-top: 70px !important;
+
+padding-bottom: 70px !important;
+margin-bottom: 70px !important
+}
+
+.indent
+{text-indent: 20px;}
+
+.center {
+  text-align: center;
+}
+
+.border
+{
+border: 3px solid;
+padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px
+  padding-left: 20px
+
+}
+.left{
+    margin-left: 200px
+  }
+.text 
+  {
+padding-bottom: 10px;
+
+  }  
+.outline {
+    border: 1px solid;
+    padding: 10px;}
+ 
+.textmark {
+  background: #F2E885;
+}
+
+.img {width: 100%;}
+
+.expamle-claim
+{
+  padding-top: 50px;
+  padding-bottom: 25px;
+  padding-right: 20px:
+  padding-left: 30px;
+  font-size: 12px;
+}
+
+.claimmargin
+{
+margin-left: -20px;}
+
+.example-txt
+{
+  
+  font-size: 11px;
+
+}
+
+.example-btm
+{
+  
+padding-bottom: 25px; 
+
+}
+
+
+.expamle
+{
+  padding-top: 12px;
+  font-size: 12px;
+}
+
+.italic
+{
+  font-style: italic
+}
+
+.h1 
+  {padding-top: 50px;
+    padding-bottom: 20px;}
+
+.sidebar{
+
+  margin-top: 50px;
+}
+
+  </style>
